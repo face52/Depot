@@ -1,0 +1,40 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+#START:ruby
+
+ruby: 
+  title:       2001 Stanley Cup Championship ring
+  description: 
+    Colorado Avalanche beat the New Jersey Devils in 7 games
+  price:       360.00
+  image_url:   Avs.jpg 
+#END:ruby
+
+ruby: 
+  title:      1996 Stanley Cup Championship ring
+  description: 
+   Stanley Cup Championship ring from the Colorado Avalanches inagural season.
+  price:       495.95
+  image_url:   Avs2.jpg 
+#END:ruby
+
+ruby: 
+  title:       2001 Miami Hurricanes National Championship ring
+  description: 
+    The Miami Hurricanes deafeated the Nebraska Cornhuskers in the Rose Bowl in 2001 to win the National Title.
+  price:       340.95
+  image_url:   Canes.png 
+#END:ruby
+
